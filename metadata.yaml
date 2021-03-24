@@ -1,0 +1,30 @@
+_repo: History-of-the-Jews-in-America-From-the-Period-of-the-Discovery-of-the-New-World-to-the-Prese__64574
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Wiernik, Peter
+    alias: וויערניק, פרץ
+    birthdate: 1865
+    deathdate: 1936
+    gutenberg_agent_id: '52968'
+    url: http://www.gutenberg.org/2009/agents/52968
+description: ''
+gutenberg_issued: '2021-02-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64574'
+  lccn: '12025267'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'E151'
+- !lcsh 'Jews -- America -- History'
+- !lcc 'E011'
+- !lcsh 'Jews -- United States -- History'
+- GITenberg
+title: 'History of the Jews in America
+
+  From the Period of the Discovery of the New World to the Present Time'
+url: http://www.gutenberg.org/ebooks/64574
