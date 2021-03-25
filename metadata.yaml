@@ -1,5 +1,8 @@
 _repo: History-of-the-Jews-in-America-From-the-Period-of-the-Discovery-of-the-New-World-to-the-Prese__64574
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 64574-h/images/cover.jpg
 creator:
   author:
     agent_name: Wiernik, Peter
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '52968'
     url: http://www.gutenberg.org/2009/agents/52968
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64574#History-of-the-Jews-in-America-From-the-Period-of-the-Discovery-of-the-New-World-to-the-Prese_
 gutenberg_issued: '2021-02-16'
 gutenberg_type: Text
 identifiers:
